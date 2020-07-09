@@ -1,3 +1,6 @@
+![Working with emails using Python](/emails.JPG)
+
+
 # Working with emails using Python
 Send, receive, read, download emails and its contents using python
 
